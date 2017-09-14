@@ -1,3 +1,6 @@
+请参考https://github.com/oauthjs/node-oauth2-server
+这个只是我的一个fork和简单修改
+
 # oauth2-server
 
 [![npm Version][npm-image]][npm-url]
